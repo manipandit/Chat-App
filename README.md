@@ -1,4 +1,4 @@
-# NodeJS-Chat-App
+# Chat-App
 
 
 Live Demo : https://chat-instant.herokuapp.com/
